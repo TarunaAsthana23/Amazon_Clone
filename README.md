@@ -59,3 +59,11 @@ Use Live Server in VS Code.
 ##  License:
 This project is open-source and available under the **MIT License**.  
 Feel free to contribute and enhance it! 
+
+
+
+
+
+![Amazon Clone Screenshot](Img/Screenshot1.png)
+![Amazon Clone Screenshot](Img/Screenshot2.png)
+![Amazon Clone Screenshot](Img/Screenshot3.png)
