@@ -2,6 +2,13 @@
 
 This is an Amazon clone project built using HTML, CSS, and JavaScript.   It includes a responsive homepage, product listing, and a shopping cart UI.   The design is inspired by Amazon’s layout, and it supports basic interactions   like product hover effects, search bar functionality, and category filtering.
 
+
+![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S1.png)
+![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S2.png)
+![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S3.png)
+
+
+
 1️⃣ Project Title & Description
 
 # Amazon Clone - E-commerce Website --- 
@@ -64,6 +71,3 @@ Feel free to contribute and enhance it!
 
 
 
-![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S1.png)
-![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S2.png)
-![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S3.png)
