@@ -64,7 +64,7 @@ Feel free to contribute and enhance it!
 
 
 
-![Amazon Clone Screenshot](Img/Screenshot1.png)
-![Amazon Clone Screenshot](Img/Screenshot2.png)
-![Amazon Clone Screenshot](Img/Screenshot3.png)
+![Amazon Clone Screenshot](Img/S1.png)
+![Amazon Clone Screenshot](Img/S2.png)
+![Amazon Clone Screenshot](Img/S3.png)
 
