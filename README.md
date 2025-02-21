@@ -9,17 +9,17 @@ This is an Amazon clone project built using HTML, CSS, and JavaScript.   It incl
 This is a fully responsive **Amazon Clone** built using **HTML, CSS, and JavaScript**.  
 It replicates the UI of Amazon and includes features like product listing and a shopping cart.
 
-2️⃣ Features 
+2️⃣ 📌 Features 
 
 ##  Features :---
 
- Mobile-friendly responsive design 
- Interactive product listing 
- Shopping cart functionality 
- Dynamic search bar  
- User-friendly navigation 
+✅ Mobile-friendly responsive design 📱
+✅ Interactive product listing 🛍️
+✅ Shopping cart functionality 🛒
+✅ Dynamic search bar 🔍
+✅ User-friendly navigation 🚀
  
-3️⃣ Technologies Used
+3️⃣ 🛠️ Technologies Used
 
 ##  Technologies Used :---
 
@@ -29,7 +29,7 @@ It replicates the UI of Amazon and includes features like product listing and a 
 
 
 
-4️⃣ Installation & Setup
+4️⃣ 🔧 Installation & Setup
 
 ##  Installation & Usage :---
 
@@ -37,14 +37,15 @@ Follow these steps to run the project locally:
 
 1️⃣ **Clone the repository :--**
 
-git clone 
 ```sh 
-https://github.com/your-username/Amazon-Clone.git
+git clone https://github.com/TarunaAsthana23/Amazon_Clone
 
 ```
 
 2️⃣ Navigate to the project folder :-
+```sh 
 cd Amazon-Clone
+```
 
 3️⃣ Open index.html in a browser
 Open manually, or
@@ -53,14 +54,14 @@ Use Live Server in VS Code.
 
 ---
 
-#### **5️⃣ Future Enhancements**
+#### **5️⃣ 💡 Future Enhancements**
 <!-- ```md -->
 ##  Future Enhancements :-
 - Implement user authentication (Sign In/Sign Up)  
 - Integrate backend with database (Node.js, Express, MySQL, or Firebase)  
 - Add a payment gateway (Stripe, Razorpay, PayPal)```
 
-6️⃣ License
+6️⃣ 📜 License
 
 ##  License :-
 This project is open-source and available under the **MIT License**.  
@@ -68,7 +69,7 @@ Feel free to contribute and enhance it!
 
 
 
-
+7️⃣ Screenshots :-
 
 
 ![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S1.png)
