@@ -2,12 +2,16 @@
 
 This is an Amazon clone project built using HTML, CSS, and JavaScript.   It includes a responsive homepage, product listing, and a shopping cart UI.   The design is inspired by Amazon’s layout, and it supports basic interactions   like product hover effects, search bar functionality, and category filtering.
 
+---
+
 1️⃣ Project Title & Description
 
 # Amazon Clone / E-commerce Website :--- 
 
 This is a fully responsive **Amazon Clone** built using **HTML, CSS, and JavaScript**.  
 It replicates the UI of Amazon and includes features like product listing and a shopping cart.
+
+---
 
 2️⃣ 📌 Features 
 
@@ -18,6 +22,8 @@ It replicates the UI of Amazon and includes features like product listing and a 
 ✅ Shopping cart functionality 🛒
 ✅ Dynamic search bar 🔍
 ✅ User-friendly navigation 🚀
+
+---
  
 3️⃣ 🛠️ Technologies Used
 
@@ -27,7 +33,7 @@ It replicates the UI of Amazon and includes features like product listing and a 
 - **Icons & Styling:** FontAwesome, Google Fonts  
 - **Deployment:** GitHub Pages (Optional)
 
-
+---
 
 4️⃣ 🔧 Installation & Setup
 
@@ -61,13 +67,15 @@ Use Live Server in VS Code.
 - Integrate backend with database (Node.js, Express, MySQL, or Firebase)  
 - Add a payment gateway (Stripe, Razorpay, PayPal)```
 
+---
+
 6️⃣ 📜 License
 
 ##  License :-
 This project is open-source and available under the **MIT License**.  
 Feel free to contribute and enhance it! 
 
-
+---
 
 7️⃣ Screenshots :-
 
