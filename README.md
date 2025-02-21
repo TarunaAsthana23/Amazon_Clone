@@ -28,10 +28,6 @@ It replicates the UI of Amazon and includes features like product listing and a 
 - **Deployment:** GitHub Pages (Optional)
 
 
-![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S1.png)
-![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S2.png)
-![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S3.png)
-  
 
 4️⃣ Installation & Setup
 
@@ -42,6 +38,7 @@ Follow these steps to run the project locally:
 1️⃣ **Clone the repository :--**
 ```sh
 git clone https://github.com/your-username/Amazon-Clone.git
+```
 
 2️⃣ Navigate to the project folder:
 cd Amazon-Clone
@@ -58,7 +55,7 @@ Use Live Server in VS Code.
 ##  Future Enhancements:
 - Implement user authentication (Sign In/Sign Up)  
 - Integrate backend with database (Node.js, Express, MySQL, or Firebase)  
-- Add a payment gateway (Stripe, Razorpay, PayPal)
+- Add a payment gateway (Stripe, Razorpay, PayPal)```
 
 6️⃣ License
 
@@ -70,3 +67,8 @@ Feel free to contribute and enhance it!
 
 
 
+
+![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S1.png)
+![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S2.png)
+![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S3.png)
+  
