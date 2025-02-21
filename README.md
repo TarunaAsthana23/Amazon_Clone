@@ -77,7 +77,7 @@ Feel free to contribute and enhance it!
 
 ---
 
-7️⃣ Screenshots :-
+ ## 7️⃣ Screenshots :-
 
 
 ![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S1.png)
