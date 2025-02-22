@@ -83,6 +83,3 @@ Feel free to contribute and enhance it!
 
 
 ![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S1.png)
-![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S2.png)
-![Amazon Clone Screenshot](https://raw.githubusercontent.com/TarunaAsthana23/Amazon_Clone/main/Img/S3.png)
-  
